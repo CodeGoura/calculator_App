@@ -12,13 +12,13 @@ A sleek and modern calculator application built with Python's `tkinter` library.
 
 ## Screenshots
 
-![Calculator Interface](path/to/screenshot.png)
+![Calculator Interface](./img/calculater.png)
 
 ## Installation
 
 1. **Clone the repository**:
     ```bash
-    git clone 
+    git clone https://github.com/CodeGoura/calculator_App.git
     cd calculator-app
     ```
 
